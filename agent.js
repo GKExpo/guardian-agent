@@ -1,4 +1,4 @@
-const SERVER = "https://your-server-url.com"
+const SERVER = "https://10.29.27.169:5000"
 
 let deviceId = localStorage.getItem("guardian_device")
 
